@@ -14,3 +14,6 @@ Gotcha , is the goal for us to identify themes that users are asking for , so we
 
 Manager : 
 yess exactly
+----------------
+
+ We need to analyze themes with knowledge gaps. My job is to make sure YOU are doing this correctlu which is why I am asking yuou for proof as to where you got your analysis with evidence before we deliver final producy
